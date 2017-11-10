@@ -12,5 +12,7 @@ Sinta-se livre para baixar ou clonar o código-fonte:
 
 # Descrição da estrutura
 
-- **lista_compras** Pasta principal
-- **index.html** Abrir arquivo no browser
+- **lista_compras** 
+	Pasta principal
+- **index.html** 
+	Abrir arquivo no browser
