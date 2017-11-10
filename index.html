@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Lista de Compras de Supermercado</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/style.css">        
+	</head>
+	<body>
+		<div id="container" class="container">
+			<h1>Lista de Compras de Supermercado</h1>
+			<div class="box">
+				<ul class="list-group">
+					<li>Produto</li>
+					<li>Quantidade</li>
+					<li></li>
+				</ul>
+			</div>
+			<div id="listaProduto"></div>
+			<div class="grid">
+				<form class="form-inline" id="formProdutos" role="form">
+					<div class="form-group">
+						<input type="text" placeholder="Produto" id="produto" required name="produto" class="form-control" value="" >
+					</div>
+					<div class="form-group">
+						<input type="number" placeholder="Quantidade" id="quantidade" required name="quantidade" class="form-control" value="" onkeyup="soNumeros(this)" maxlength="10">
+					</div>
+					<button type="submit" id="btn_cadastrar" class="btn btn-primary">adicionar ítem</button>
+				</form>
+			</div>		
+		</div>
+		<script type="text/javascript" src="lib/script.js"></script>
+	</body>
+</html>

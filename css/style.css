@@ -1,0 +1,27 @@
+.form-group {
+    margin-right: 10px;
+}
+ul {
+	list-style: none;
+	padding: 0px; 
+}
+ul li {
+	display: inline-block;
+	width: 33%;
+}
+.list-group li {
+	font-weight: 600;
+}
+
+.box {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+.grid {
+    margin-top: 20px;
+}
+div#listaProduto .produtosAdd {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 41px;
+}
