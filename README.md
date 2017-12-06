@@ -6,6 +6,11 @@ Sinta-se livre para baixar ou clonar o código-fonte:
 
 	https://github.com/silvanoamaral/lista_compras.git
 
+Link no jsfiddle
+
+	https://jsfiddle.net/silvano/wva3uzpg/	
+
+
 # Descrição do projeto
 
 	Projeto para registrar uma lista de compras de supermercado com remoção e inserção de dados.
