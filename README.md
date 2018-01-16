@@ -2,9 +2,7 @@
 
 	Lista de Compras de Supermercado
 
-# GitHub Pages
-
-	https://silvanoamaral.github.io/lista_compras/
+GitHub Pages [link](https://silvanoamaral.github.io/lista_compras/)	
 
 Sinta-se livre para baixar ou clonar o código-fonte:
 
